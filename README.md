@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Andrii Levytskyi
 
-<!--
-**alevyt/alevyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Engineer with 10+ years of experience building web and mobile applications.
 
-Here are some ideas to get you started:
+## Main Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Angular
+- TypeScript
+- JavaScript
+- RxJS
+- NgRx
+- Capacitor
+- HTML/CSS/SCSS
+
+## Professional Background
+
+I've worked on projects in:
+
+- Fintech
+- Healthcare
+- Advertising Technology
+- E-commerce
+- Workforce Management
+- SaaS Platforms
+
+## Connect with me
+
+LinkedIn:
+www.linkedin.com/in/andrii-levytskyi-35243732
+
+GitHub:
+github.com/alevyt
+
+Email:
+levanpmi@ukr.net
