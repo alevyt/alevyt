@@ -1,0 +1,164 @@
+cv:
+  name: Andrii Levytskyi
+  headline: Senior Frontend Engineer (Angular)
+  location: Ukraine
+  email: levanpmi@ukr.net
+  photo:
+  phone: "+38 (063) 370-66-60"
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: andrii-levytskyi-35243732
+    - network: GitHub
+      username: alevyt
+  custom_connections:
+    
+  sections:
+    professional_summary:
+    - Senior Frontend Engineer with 10+ years of experience building web and mobile applications across fintech, healthcare, advertising, e-commerce, and SaaS domains.
+    - Angular specialist with hands-on experience from Angular 5 to Angular 20, including enterprise applications, framework migrations, and hybrid mobile development with Capacitor.
+    - Experienced in frontend architecture, code reviews, mentoring, REST API integration, and delivering solutions used by hundreds of thousands of users.
+
+    selected_technologies:
+    - bullet: Angular 5–20
+    - bullet: TypeScript
+    - bullet: RxJS
+    - bullet: NgRx
+    - bullet: Capacitor
+    - bullet: JavaScript
+    - bullet: REST APIs & Frontend Architecture
+
+    experience:
+      - company: Confidential Client
+        position: Angular & Capacitor Developer
+        date:
+        start_date: 2025-06
+        end_date: present
+        location: Remote
+        summary: >
+          Cross-platform mobile application for arborist companies, field workers, and estimators. 
+          Technologies: Angular 20, TypeScript, Capacitor
+        highlights:
+          - Developing and maintaining a mobile application used by field workers and estimators.
+          - Implementing new functionality and improving existing business workflows using Angular 20 and Capacitor.
+          - Collaborating with backend engineers and product stakeholders to deliver mobile-first solutions.
+          - Supporting application maintainability, stability, and user experience improvements.
+  
+
+      - company: Freelance
+        position: Frontend Developer
+        date:
+        start_date: 2024-04
+        end_date: present
+        location: Remote
+        summary: >
+          Short- and mid-term web application projects for different clients.
+          Technologies: Angular 17+, TypeScript, RxJS, SCSS
+        highlights:
+          - Delivered web application solutions for multiple clients across different industries.
+          - Developed reusable Angular components and responsive user interfaces.
+          - Integrated frontend applications with REST APIs and business services.
+          - Improved application performance, maintainability, and overall user experience.
+          - Worked directly with stakeholders to translate business requirements into technical solutions.
+
+      - company: Infolinks
+        position: Frontend Developer
+        date:
+        start_date: 2023-06
+        end_date: 2024-04
+        location: Remote
+        summary: >
+          Global advertising platform serving publishers and advertisers worldwide.
+          Technologies: JavaScript, HTML, CSS
+        highlights:
+          - Developed and maintained advertising widgets embedded on customer websites.
+          - Implemented new functionality and customized existing frontend components.
+          - Worked on high-traffic advertising solutions requiring reliability and performance.
+          - Collaborated with distributed teams to deliver new platform capabilities.
+
+
+      - company: Raiffeisen Bank
+        position: Frontend Developer
+        date:
+        start_date: 2022-08
+        end_date: 2023-06
+        location: Remote
+        summary: >
+          Customer onboarding platform for banking customers.
+          Technologies: Angular 11, TypeScript, RxJS
+        highlights:
+          - Developed new features supporting customer onboarding and account creation processes.
+          - Implemented functionality related to card ordering and delivery workflows.
+          - Maintained and enhanced an enterprise Angular application used by banking customers.
+          - Collaborated with business analysts, QA engineers, and backend developers to deliver secure and reliable solutions.
+
+
+      - company: GlobalLogic
+        position: Frontend Developer
+        date:
+        start_date: 2021-06
+        end_date: 2022-06
+        location: Remote
+        summary: >
+          Healthcare technology platform.
+          Technologies: Angular 7, Angular 12, TypeScript
+        highlights:
+          - Served as the primary frontend engineer on the project.
+          - Developed new business functionality and resolved complex production issues.
+          - Participated in frontend architectural decisions and technical planning.
+          - Led migration efforts from Angular 7 to Angular 12.
+          - Collaborated closely with backend and QA teams to deliver healthcare-focused solutions.
+
+      - company: App2Drive
+        position: Frontend Developer
+        date:
+        start_date: 2019-11
+        end_date: 2021-06
+        location:
+        summary: >
+          Vehicle rental platform.
+          Technologies: Angular 5, Angular 7, jQuery, JavaScript
+        highlights:
+          - Developed and maintained customer-facing and administrative applications.
+          - Implemented scheduling, booking, and account management functionality.
+          - Enhanced usability and reliability of business-critical workflows.
+
+      - company: N-iX
+        position: Frontend Developer
+        date:
+        start_date: 2016-11
+        end_date: 2018-12
+        location: Lviv, Ukraine
+        summary: >
+          Frontend development across fintech, marketing, and e-commerce projects.
+          Technologies: JavaScript, Angular 5, React, Redux
+        highlights:
+          - Developed customer-facing functionality for an international money remittance platform.
+          - Implemented features based on business and design requirements.
+          - Mentored a trainee developer and supported onboarding and knowledge transfer activities.
+          - Developed frontend functionality and reusable UI components for a marketing campaign management dashboard.
+          - Built customer-facing functionality for a heating equipment e-commerce platform using React and Redux.
+
+      - company: SoftServe
+        position: Support Engineer / Frontend Developer
+        date:
+        start_date: 2013-05
+        end_date: 2016-11
+        location: Lviv, Ukraine
+        summary: >
+          Frontend development and support for enterprise and marketing projects.
+          Technologies: JavaScript, jQuery, HTML, CSS, LESS, Kentico, Eloqua, Freemarker
+        highlights:
+          - Supported and enhanced a large-scale platform providing reviews, ratings, and Q&A functionality for e-commerce websites.
+          - Investigated and resolved production issues for enterprise customers.
+          - Delivered frontend improvements and maintenance tasks.
+          - Redesigned and maintained corporate websites.
+          - Developed landing pages and email templates for marketing campaigns and events.
+
+
+    education:
+    - institution: Ivan Franko National University of Lviv
+      area: Applied Mathematics
+      start_date: 2005
+      end_date: 2010
+      location: Lviv, Ukraine
